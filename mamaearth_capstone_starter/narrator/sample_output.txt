@@ -1,0 +1,8 @@
+Situation
+The cleaned analysis shows revenue of ₹97,358.30 versus raw revenue of ₹99,860.20. COD has the highest payment-method return rate at 44.4%, compared with 14.7% for CARD and 18.9% for UPI.
+
+Complication
+Five duplicate submissions create a reconciliation delta of ₹2,501.90. The highest-risk segment is COD + Tier-2, with a 54.5% return rate. January's apparent revenue peak is inflated by the quantity outliers.
+
+Resolution
+After correcting the outliers, 2026-03 is the true peak month at ₹20,318.90. Operations should prioritize the COD + Tier-2 segment, while finance should report cleaned revenue and exclude duplicate submissions.
